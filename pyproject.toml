@@ -1,0 +1,9 @@
+[project]
+name = "sleepnotes"
+version = "0.0.1"
+description = "CLI for jotting quick sleep observations"
+authors = [{ name = "Hannah Miles" }]
+requires-python = ">=3.9"
+
+[project.scripts]
+sleepnotes = "sleepsrc.sleepnotes.cli:main"

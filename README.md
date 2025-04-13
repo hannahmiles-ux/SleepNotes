@@ -3,3 +3,9 @@
 ## Usage (early draft)
 - Add entry: `sleepnotes add --duration 7.6 --quality 4 --note "late coffee"`
 - Summarize: `sleepnotes summarize`
+
+## Roadmap
+- CSV export
+- Better stats (median, stddev)
+- Tagging notes
+- Optional encryption

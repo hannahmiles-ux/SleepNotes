@@ -9,3 +9,6 @@
 - Better stats (median, stddev)
 - Tagging notes
 - Optional encryption
+
+## Tips
+Try short notes first, then iterate. Keep durations as decimals (e.g. 7.5).
